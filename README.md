@@ -12,3 +12,7 @@ This features all of 5408D Dynamo's code for the Tipping Point Season
 
 ![image](https://github.com/user-attachments/assets/cd2ebfce-0e10-4062-a6f7-49908ee3e2a5)
 
+## Intro 
+
+This code is more or less the same as the Change Up code but I think I put some lifting PID, since I had a to use a lift, so this sort of dives into the concept of parallel computing of tasks or something. 
+
