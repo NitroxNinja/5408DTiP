@@ -16,7 +16,7 @@ This features all of 5408D Dynamo's code for the Tipping Point Season
 
 This code is more or less the same as the Change Up code but I think I put some lifting PID, since I had a to use a lift, so this sort of dives into the concept of parallel computing of tasks or something. 
 
-## Driver-focused 
+## Driver-focused... sorta 
 
 There is also very little drive macros and automated tasks. **This is a driver's robot. Not a neat robot.** Everything is raw control and skill. It's supposed to be a **viseral experience to drive one of my robots!** Even my drivetrain uses voltage control instead of PID (but this does come at some consequences such as low torque in both ends of the RPM limits), and features a autolocking drive (most people complain that this may damage the motors, but if you drive properly, it shouldn't). It uses arguably the most difficult to control setting, right hand single-stick arcade, and absolutely no power curves to the thing, just linear pure movement. 
 
