@@ -57,5 +57,4 @@ You can also alternatively switch to another coding library like EZ-Template or 
 
 ## Conclusion 
 
-This code is very simple. But it takes the right programmer to configure this code to your own. I shared this to others so that they could know how stupidly dumb this code is and how it brought my team's successes in a increasingly competitive region. You don't need a whole lot widgets to be good. You just need to get the perfect the basics. 
-
+This code is very simple. It is basically a spin-off of my previous code, since I used more or less a similar wheelbase, and ratio for everything. You should also watch my -1 Driver Skills video [here]( https://youtu.be/_R0UAOexxKs?si=k1NFltalZHmkeWsq). 
